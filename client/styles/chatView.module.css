@@ -1,0 +1,14 @@
+.chatView {
+  flex: 6;
+  height: 100%;
+  width: 100%;
+  overflow: hidden !important;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.messagesContainer {
+  padding: 20px;
+  padding-bottom: 100px;
+  padding-top: 30px;
+}
